@@ -1,0 +1,6 @@
+{
+  "name": "gorecord",
+  "dependencies": [
+    "boost-algorithm"
+  ]
+}

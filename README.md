@@ -5,16 +5,15 @@ A tool to solve the generic case of Richard P. Feynmans long division puzzles.
 ## requirements
 
 - modern c++ compiler
-- boost
+- vcpkg
+- ninja
 - cmake
 
 ## build
 ```
 $ cd ${PROJ}
-$ mkdir build
-$ cd build
-$ cmake -DCMAKE_BUILD_TYPE=Release ..
-$ make
+$ cmake --preset default
+$ cmake --build --preset default
 ```
 
 ## run
