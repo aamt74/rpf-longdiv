@@ -1,5 +1,5 @@
 {
-  "name": "gorecord",
+  "name": "rpf-longdiv",
   "dependencies": [
     "boost-algorithm"
   ]
